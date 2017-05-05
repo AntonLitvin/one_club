@@ -1,3 +1,11 @@
+//preloader
+
+$(window).on('load', function() { 
+	$(".loader-inner").fadeOut(); 
+	$(".loader").delay(400).fadeOut(100); 
+});
+
+
 $(function() {
 
 
