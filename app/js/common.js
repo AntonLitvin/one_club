@@ -76,6 +76,9 @@ $(window).scroll(function() {
 
 //https://github.com/mattbanks/jQuery.equalHeights
 $('.teaser-item').equalHeights();
+$(window).resize(function() {
+	$('.teaser-item').equalHeights();
+});
 
 
 //http://dimsemenov.com/plugins/magnific-popup/documentation.html
