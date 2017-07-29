@@ -1,8 +1,10 @@
 # One Club
 
-Test task by SmartDevelopers company
+[DEMO](https://antonlitvin.github.io/one_club/dist)
 
-Adaptive product item page
+Test task for SmartDevelopers company
+
+Responsive product item page
 
 Used:<br>
 Bootstrap grid<br>
@@ -11,4 +13,3 @@ Magnific-popup for modals<br>
 SCSS<br>
 Bower<br>
 Gulp<br>
-
